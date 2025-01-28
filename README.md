@@ -1,5 +1,10 @@
 # **Classification of Mobile Adware Variants Using Machine Learning Techniques**
 
+## Live Demo  
+Run the project directly in Google Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g7p5voytwmywOtaUizeJ8AQFoSGg4Wos?usp=sharing)
+
+
 ## **Overview**  
 Mobile adware is a major cybersecurity threat, affecting user privacy and device performance. This project classifies mobile adware variants using the **CIC-AndMal2017 dataset** and applies machine learning models:  
 - **Logistic Regression** (baseline)  
