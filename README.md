@@ -46,3 +46,23 @@ The project uses the **CIC-AndMal2017 dataset** ([link](https://www.unb.ca/cic/d
 ---
 
 ## **Project Structure**  
+Classification-of-Mobile-Adware/ │ ├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks for analysis and visualization
+├── src/ # Scripts for preprocessing, training, and evaluation
+├── models/ # Saved model checkpoints
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation (this file)
+└── LICENSE # License file (e.g., MIT License)
+
+## **Usage**
+1. Place the CIC-AndMal2017 dataset in the data/ folder.
+2. Preprocess the dataset:
+   python src/preprocess.py
+3. Train models:
+   python src/train.py
+4. Evaluate models:
+   python src/evaluate.py
+
+## **Conclusion**
+This project demonstrates the effectiveness of *XGBoost* and *Random Forest* for detecting mobile adware variants, highlighting the potential of machine learning in cybersecurity. Future work includes exploring deep learning methods and real-time detection systems for enhanced performance.
+
