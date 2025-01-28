@@ -64,5 +64,5 @@ Classification-of-Mobile-Adware/ │ ├── data/ # Dataset files
    python src/evaluate.py
 
 ## **Conclusion**
-This project demonstrates the effectiveness of *XGBoost* and *Random Forest* for detecting mobile adware variants, highlighting the potential of machine learning in cybersecurity. Future work includes exploring deep learning methods and real-time detection systems for enhanced performance.
+This project demonstrates the effectiveness of **XGBoost** and **Random Forest** for detecting mobile adware variants, highlighting the potential of machine learning in cybersecurity. Future work includes exploring deep learning methods and real-time detection systems for enhanced performance.
 
